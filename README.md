@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mark, an up-and-coming data inference and data analytics specialist from Atlanta, GA, USA.
+I'm Mark, an up-and-coming data inference and analytics specialist from Atlanta, GA, USA.
 
 - I have over 20 years of experience teaching high school and college mathematics.
 - I have over 12 years experience managing teams of math and English authors for a major US test-prep company.
