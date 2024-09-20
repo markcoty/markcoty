@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings! 👋
 
 I'm Mark, an up-and-coming data inference and analytics specialist from Atlanta, GA, USA.
 
