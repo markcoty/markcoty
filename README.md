@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-I'm Mark, an up-and-coming data inference and analytics specialist from Atlanta, GA, USA.
+I'm Mark, an aspiring data inference and analytics specialist from Atlanta, GA, USA.
 
 - I have over 20 years of experience teaching high school and college mathematics.
 - I have over 12 years experience managing teams of math and English authors for a major US test-prep company.
@@ -9,7 +9,7 @@ I'm Mark, an up-and-coming data inference and analytics specialist from Atlanta,
 - I am currently working on adding projects from The Forage to my portfolio, and then I will be doing work simulations with Chingu.
 - Finally, my goal is to land a local or remote position in data science.
 
-- Please feel free to browse my projects and send feedback!
+- Please feel free to browse my work and send feedback!
 
   Best,
   Mark
