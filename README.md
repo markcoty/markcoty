@@ -2,7 +2,7 @@
 
 I'm Mark, an aspiring data inference and analytics specialist from Atlanta, GA, USA.
 
-- I have over 20 years of experience teaching high school and college mathematics.
+- I have over 20 years of experience teaching mathematics.
 - I have over 12 years experience managing teams of math and English authors for a major US test-prep company.
 - My undergraduate degree is in philosophy, and I specialized in mathematical logic, set theory, and metamathematics.
 - My masters degree is in math education, and this is where I added my background in statistics.
