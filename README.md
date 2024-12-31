@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-I'm Mark, an aspiring data scientist from Atlanta, GA, USA.
+I'm Mark, a developing data scientist from Atlanta, GA, USA.
 
 - I'm in a remote coding bootcamp, learning Python, SQL, and R, along with techniques for wrangling and drawing conclusions from data.
 - I have over 20 years of experience teaching college mathematics.
