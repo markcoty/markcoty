@@ -1,17 +1,23 @@
 ## Greetings! 👋
 
-I'm Mark, a developing data scientist from Atlanta, GA, USA.
+I'm Mark, a developing data scientist from Atlanta, GA, USA. Some background on me:
 
-- I'm in a remote coding bootcamp, learning Python, SQL, and R, along with techniques for wrangling and drawing conclusions from data.
-- I have over 20 years of experience teaching college mathematics.
-- I have over 12 years experience managing teams of math and English authors for a major US test-prep company.
-- My undergraduate degree is in philosophy, and I specialized in mathematical logic, set theory, and metamathematics.
-- My masters degree is in math education, and this is where I added my background in statistics.
-- My goal is to find a local or remote position in data science.
+I have 30+ years experience teaching mathematics at the college and high school levels, and 
+I have managed math and ELA teams for a major US test-prep company.
+My resume can be viewed here: https://docs.google.com/document/d/1uuu6Vs1GLOEA1vJuSTVJLuDV7HngMAwgkbsb8mzuFhA/edit?usp=sharing
 
-- Please feel free to browse my work and send feedback.
+● In the process (2-3 weeks) of obtaining the AWS Data Engineering Associate certificate.
+● Programming & Data Analysis: Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn,
+Matplotlib, Seaborn
+● Machine Learning & Statistical Methods: Regression, Classification, A/B Testing,
+Hypothesis Testing, Bayesian Inference
+● Data Engineering & Visualization: Tableau, Power BI, Data Cleaning, Feature
+Engineering
+● Tools & Workflow: Jupyter Notebooks, Git, GitHub, Jira, Google Suite, Microsoft Suite
+● App Analytics: Firebase Analytics, Google Analytics
+● Languages: English (Fluent), German (Fluent Translation Skills
 
-  Best,
+Best,
   Mark
 
 <!--
