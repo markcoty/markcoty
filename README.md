@@ -1,24 +1,23 @@
 ## Greetings! 👋
 
-I'm Mark, a developing data scientist from Atlanta, GA, USA. Some background on me:
+I'm Mark, a burgeoning data scientist from Atlanta, GA.
 
-I have 30+ years experience teaching mathematics at the college and high school levels, and 
-I have managed math and ELA teams for a major US test-prep company.
-My resume can be viewed here: https://docs.google.com/document/d/1uuu6Vs1GLOEA1vJuSTVJLuDV7HngMAwgkbsb8mzuFhA/edit?usp=sharing
+Some background on me:
 
+- I have 30+ years experience teaching mathematics at the college and high school levels, and 
+- I have managed math and ELA teams for a major US test-prep company.
 - In the process (2-3 weeks) of obtaining the AWS Data Engineering Associate certificate.
-- Programming & Data Analysis: Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn,
+- In Programming & Data Analysis I have experience and certifications in Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn,
 Matplotlib, Seaborn
-- Machine Learning & Statistical Methods: Regression, Classification, A/B Testing,
+- In Machine Learning & Statistical Methods I am fluent in Regression, Classification, A/B Testing,
 Hypothesis Testing, Bayesian Inference
-- Data Engineering & Visualization: Tableau, Power BI, Data Cleaning, Feature
+- In Data Engineering & Visualization I have used Tableau, AWS QuickSight, and processes for Data Cleaning and Feature
 Engineering
-- Tools & Workflow: Jupyter Notebooks, Git, GitHub, Jira, Google Suite, Microsoft Suite
-- App Analytics: Firebase Analytics, Google Analytics
+- In Tools & Workflow, I've worked with Jupyter Notebooks, Git, GitHub, Jira, Google Suite, Microsoft Suite
 - Languages: English (Fluent), German (Fluent Translation Skills
 
-Best,
-  Mark
+Best, Mark
+year800@gmail.com
 
 <!--
 **markcoty/markcoty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
