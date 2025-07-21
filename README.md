@@ -4,9 +4,9 @@ I'm Mark, a burgeoning data scientist from Atlanta, GA.
 
 Some background on me:
 
-- I have 30+ years experience teaching mathematics at the college and high school levels, and 
+- I have 30+ years experience teaching mathematics at the college and high school levels.
 - I have managed math and ELA teams for a major US test-prep company.
-- In the process (2-3 weeks) of obtaining the AWS Data Engineering Associate certificate.
+- I am in the process (2-3 weeks) of obtaining the AWS Data Engineering Associate certificate.
 - In Programming & Data Analysis I have experience and certifications in Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn,
 Matplotlib, Seaborn
 - In Machine Learning & Statistical Methods I am fluent in Regression, Classification, A/B Testing,
