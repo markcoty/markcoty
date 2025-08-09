@@ -4,9 +4,8 @@ I'm Mark, a burgeoning data scientist from Atlanta, GA.
 
 Some background on me:
 
-- I have 30+ years experience teaching mathematics at the college and high school levels.
-- I have managed math and ELA teams for a major US test-prep company.
-- I am in the process (2-3 weeks) of obtaining the AWS Data Engineering Associate certificate.
+
+- I have the AWS Data Engineering Associate certificate: [DEA-C01](https://www.credly.com/badges/83a16936-1ae4-4422-a921-f583be42ff4e/public_url)
 - In Programming & Data Analysis I have experience and certifications in Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn,
 Matplotlib, Seaborn
 - In Machine Learning & Statistical Methods I am fluent in Regression, Classification, A/B Testing,
@@ -14,6 +13,8 @@ Hypothesis Testing, Bayesian Inference
 - In Data Engineering & Visualization I have used Tableau, AWS QuickSight, and processes for Data Cleaning and Feature
 Engineering
 - In Tools & Workflow, I've worked with Jupyter Notebooks, Git, GitHub, Jira, Google Suite, Microsoft Suite
+- I have 30+ years experience teaching mathematics at the college and high school levels.
+- I have managed math and ELA teams for a major US test-prep company.
 - Languages: English (Fluent), German (Fluent Translation Skills
 
 Best, Mark
