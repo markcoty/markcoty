@@ -14,7 +14,7 @@ Hypothesis Testing, Bayesian Inference
 Engineering
 - In Tools & Workflow, I've worked with Jupyter Notebooks, Git, GitHub, Jira, Google Suite, Microsoft Suite
 - I have 30+ years experience teaching mathematics at the college and high school levels.
-- I have managed math and ELA teams for a major US test-prep company.
+- I have managed the math and ELA teams for a major US test-prep company.
 - Languages: English (Fluent), German (Fluent Translation Skills)
 
 Best, Mark
