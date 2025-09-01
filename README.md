@@ -1,9 +1,8 @@
 ## Greetings! 👋
 
-I'm Mark, a burgeoning data scientist from Atlanta, GA.
+I'm Mark, a data scientist from Atlanta, GA. My current project websites can be accessed from [here](https://markcoty.com/).
 
 Some background on me:
-
 
 - I have the AWS Data Engineering Associate certificate: [DEA-C01](https://www.credly.com/badges/83a16936-1ae4-4422-a921-f583be42ff4e/public_url)
 - In Programming & Data Analysis I have experience and certifications in Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn,
