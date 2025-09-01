@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-I'm Mark, a data scientist from Atlanta, GA. My current project websites can be accessed from [here](https://markcoty.com/).
+I'm Mark, a data scientist from Atlanta, GA. My current project websites can be accessed [here](https://markcoty.com/).
 
 Some background on me:
 
